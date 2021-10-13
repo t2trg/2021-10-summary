@@ -14,7 +14,7 @@ Meetecho: https://meetings.conf.meetecho.com/interim/?short=f98494b9-cf8e-465a-9
 
 Slides: TBD
 
-Notes: TBD
+Notes: https://notes.ietf.org/notes-ietf-interim-2021-t2trg-02-t2trg
 
 ## Draft agenda
 
