@@ -24,7 +24,7 @@ Please contact the [chairs][] for any changes required.
 |------------|---------------------|----------------------------------------------------|---------------------------------------------|
 |      15:00 | Chairs              | Intro, RG status, upcoming meetings and activities | [draft-irtf-t2trg-rest-iot][restiot]        |
 |      15:15 | Cenk Gündogan       | A Data-centric CoAP Transport (CoRE and ICN research talk) |                                     |
-|      15:45 | Steve Hanna         | Matter Security (CSA/"CHIP")                       |                                             |
+|      15:45 | Steve Hanna         | Matter Security & Privacy for Security & Privacy Experts (CSA/"CHIP") |                          |
 |      16:15 | Chairs              | Reports from [WISHI][] and other activities        |                                             |
 |      16:25 | Michael McCool      | W3C WoT update                                     |                                             |
 |      16:35 | Michael Koster      | OneDM update, iotschema.org                        |                                             |
