@@ -23,7 +23,7 @@ Please contact the [chairs][] for any changes required.
 | Time (UTC) | Who                 | Subject                                            | Docs                                        |
 |------------|---------------------|----------------------------------------------------|---------------------------------------------|
 |      15:00 | Chairs              | Intro, RG status, upcoming meetings and activities | [draft-irtf-t2trg-rest-iot][restiot]        |
-|      15:15 | Cenk Gündogan       | CoRE and ICN (research talk)                       |                                             |
+|      15:15 | Cenk Gündogan       | A Data-centric CoAP Transport (CoRE and ICN research talk) |                                     |
 |      15:45 | Steve Hanna         | Matter Security (CSA/"CHIP")                       |                                             |
 |      16:15 | Chairs              | Reports from [WISHI][] and other activities        |                                             |
 |      16:25 | Michael McCool      | W3C WoT update                                     |                                             |
